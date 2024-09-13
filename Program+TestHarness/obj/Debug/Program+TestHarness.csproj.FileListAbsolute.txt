@@ -1,0 +1,7 @@
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+TestHarness\bin\Debug\Program+TestHarness.exe.config
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+TestHarness\bin\Debug\Program+TestHarness.exe
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+TestHarness\bin\Debug\Program+TestHarness.pdb
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+TestHarness\obj\Debug\Program+TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+TestHarness\obj\Debug\Program+TestHarness.exe
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+TestHarness\obj\Debug\Program+TestHarness.pdb
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+TestHarness\obj\Debug\Program+TestHarness.csprojResolveAssemblyReference.cache

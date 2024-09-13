@@ -1,0 +1,7 @@
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+Instrumentation\bin\Debug\Program+Instrumentation.exe.config
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+Instrumentation\bin\Debug\Program+Instrumentation.exe
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+Instrumentation\bin\Debug\Program+Instrumentation.pdb
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+Instrumentation\obj\Debug\Program+Instrumentation.csproj.CoreCompileInputs.cache
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+Instrumentation\obj\Debug\Program+Instrumentation.exe
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+Instrumentation\obj\Debug\Program+Instrumentation.pdb
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\Program+Instrumentation\obj\Debug\Program+Instrumentation.csprojResolveAssemblyReference.cache

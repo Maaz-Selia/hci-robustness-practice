@@ -1,0 +1,7 @@
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\HCI ACW\bin\Debug\HCI ACW.exe.config
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\HCI ACW\bin\Debug\HCI ACW.exe
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\HCI ACW\bin\Debug\HCI ACW.pdb
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\HCI ACW\obj\Debug\HCI ACW.csprojResolveAssemblyReference.cache
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\HCI ACW\obj\Debug\HCI ACW.csproj.CoreCompileInputs.cache
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\HCI ACW\obj\Debug\HCI ACW.exe
+C:\Users\maazs\Desktop\HCI ACW\HCI ACW\HCI ACW\obj\Debug\HCI ACW.pdb
